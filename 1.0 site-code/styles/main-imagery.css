@@ -1,0 +1,28 @@
+#hero>.img{
+    aspect-ratio: 1 / 1;
+    background-image: url(/images/reef.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card:nth-child(2) .img{
+    aspect-ratio: 16 / 9;
+    background-image: url(/images/desert.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.card:nth-child(3) .img{
+    aspect-ratio: 3 / 4;
+    background-image: url(/images/mushroom.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card:last-child .img{
+    aspect-ratio: 3 / 2;
+    background-image: url(/images/lights.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

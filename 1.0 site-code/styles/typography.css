@@ -1,0 +1,41 @@
+@import url(variables.css);
+
+ul>li{
+    list-style: none;
+    font-size: var(--h-size);
+    font-family: var(--secondary-font);
+    font-weight: 300;
+    font-style: italic;
+}
+
+#logo{
+    font-family: var(--logo);
+    font-size: var(--logo-size);
+    text-transform: uppercase;
+    font-style: normal;
+    text-align: center;
+}
+
+h1,
+h2{
+    font-family: var(--primary-font);
+    font-weight: 400;
+    font-style: normal;
+    font-size: var(--h-size);
+    text-transform: uppercase;
+}
+
+h3{
+    font-family: var(--secondary-font);
+    font-size: var(--h-size);
+    font-weight: 300;
+    font-style: italic;
+}
+
+a,
+a:visited{
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+

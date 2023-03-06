@@ -1,0 +1,59 @@
+.reef-hero{
+    background-image: url(/images/reef.webp);
+    background-size: cover;
+}
+
+.mushroom-article{
+    background-image: url(/images/mushroom.webp);
+    background-size: cover;
+}
+
+.desert-article{
+    background-image: url(/images/desert.webp);
+    background-size: cover;
+}
+
+.lights-article{
+    background-image: url(/images/lights.webp);
+    background-size: cover;
+}
+
+#reef-1{
+    background-image: url(/images/turtle.webp);
+    background-size: cover;
+}
+
+#reef-2{
+    background-image: url(/images/coral.webp);
+    background-size: cover;
+}
+
+#mushroom-1{
+    background-image: url(/images/mushroom-1.webp);
+    background-size: cover;
+}
+
+#mushroom-2{
+    background-image: url(/images/mushroom-2.webp);
+    background-size: cover;
+}
+
+#desert-1{
+    background-image: url(/images/desert-1.webp);
+    background-size: cover;
+}
+
+#desert-2{
+    background-image: url(/images/desert-2.webp);
+    background-size: cover;
+}
+
+#lights-1{
+    background-image: url(/images/lights-1.webp);
+    background-size: cover;
+}
+
+#lights-2{
+    background-image: url(/images/lights-2.webp);
+    background-size: cover;
+}

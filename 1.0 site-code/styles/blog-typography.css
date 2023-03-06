@@ -1,0 +1,60 @@
+@import url(variables.css);
+
+#logo{
+    font-weight: 400;
+}
+
+h1{
+    font-size: var(--blog-title-size);
+    letter-spacing: -0.05rem;
+    line-height: calc(var(--blog-title-size)*1.2);
+}
+
+h2{
+    font-family: var(--secondary-font);
+    text-transform: lowercase;
+    font-style: italic;
+    font-size: var(--blog-subhead-size);
+    line-height: calc(var(--blog-subhead-size)*1.1);
+}
+
+.category{
+    font-family: var(--primary-font);
+    text-transform: uppercase;
+    font-size: var(--label-size);
+    font-weight: 300;
+}
+
+time{
+    font-family: var(--primary-font);
+    text-transform: uppercase;
+    font-size: var(--h-size);
+}
+
+.name{
+    text-transform: uppercase;
+    font-style: normal;
+}
+
+.role{
+    font-family: var(--secondary-font);
+    text-transform: lowercase;
+}
+
+p{
+    font-family: var(--primary-font);
+    font-size: var(--h-size);
+}
+
+
+.bio>p{
+    font-family: var(--primary-font);
+    font-size: var(--h-size);
+    font-weight: 300;
+    width: 75%;
+}
+
+
+.next-article-title > h1{
+    font-size: var(--blog-subhead-size);
+}
